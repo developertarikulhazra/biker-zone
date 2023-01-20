@@ -1,0 +1,13 @@
+.biker-zone-arrow {
+  background-color: rgba(143, 143, 143, 0.705);
+  border-radius: 2px;
+}
+.rating-icon {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+}
+.rating-icon img {
+  width: 20px;
+}
